@@ -19,7 +19,7 @@ class ConcreteStrategySubtract implements Strategy {
     }
 }
 
-// Concrete Strategy C: Multiplication
+ // Concrete Strategy C: Multiplication
 class ConcreteStrategyMultiply implements Strategy {
     @Override
     public int execute(int a, int b) {
