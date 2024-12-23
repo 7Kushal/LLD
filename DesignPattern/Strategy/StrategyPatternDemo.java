@@ -1,4 +1,5 @@
-// Strategy Interface
+package Strategy;
+
 interface Strategy {
     public int execute(int a, int b);
 }
